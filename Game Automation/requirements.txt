@@ -1,0 +1,6 @@
+cv2
+cvzone.HandTrackingModule 
+pyautogui
+time
+threading
+playsound 
